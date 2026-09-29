@@ -48,3 +48,8 @@ construction, and machine learning-based prediction of individual cardiovascular
 risk marker (LDL) response — built to be extended to real multi-omics data
 (transcriptomic, proteomic, metabolomic, gut microbiome) as described in the
 FastBio/LDL-ACT framework.
+
+## Repository
+
+`Genomics.ipynb` — full analysis notebook (cohort simulation, QTL analysis,
+genetic risk score, predictive modelling, figures), runnable in Google Colab.
